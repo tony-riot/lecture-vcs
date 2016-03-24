@@ -70,3 +70,4 @@ Team 19 Lee Yurim
 12조201203431 서영학 
 15조신영훈
 18조 유지현
+조교팀 김영철 dd request-pull 명령 test
